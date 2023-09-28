@@ -1,0 +1,72 @@
+.formatives-container {
+	display: flex;
+	flex-direction: column;
+	height: 85%;
+	margin: 0;
+	padding: 20px 10px;
+}
+
+.formatives-main {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	text-align: center;
+}
+
+.formatives-title {
+	width: 85% !important;
+}
+
+.screenshots-list {
+	flex-basis: 300px;
+}
+
+.formatives-image-container,
+.formatives-pdf-container {
+	display: flex;
+	flex-basis: 300px;
+	flex-wrap: wrap;
+	margin: 0 -35px;
+	padding: 30px 0;
+}
+
+.formatives-image-wrapper {
+	border: 12.5px solid #333333;
+	box-sizing: border-box;
+	margin: 15px;
+	overflow: hidden;
+	padding: 20px;
+	width: calc(100% / 3.22);
+}
+
+.formatives-image-wrapper img {
+	display: block;
+	width: 100%;
+}
+
+.formatives-pdf-wrapper {
+	box-sizing: border-box;
+	margin: 15px 15px -15px 15px;
+	overflow: hidden;
+	width: calc(100% / 3.3);
+}
+
+.formatives-pdf-wrapper iframe {
+	border: 0;
+	display: block;
+	height: 415px;
+	padding: 20px, 0;
+	width: 100%;
+}
+
+@media (max-width: 600px) {
+	.screenshots-list {
+		flex-basis: auto;
+	}
+
+	.formatives-image-wrapper,
+	.formatives-pdf-wrapper {
+		width: 100%;
+	}
+}

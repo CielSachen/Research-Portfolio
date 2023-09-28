@@ -1,0 +1,43 @@
+a {
+  color: #3c6b37;
+}
+
+table {
+	display: block;
+	margin: 35px 0 40px 0;
+  border-collapse: collapse;
+  overflow-x: auto;
+  white-space: nowrap;
+  width: 100%;
+}
+
+td, th {
+  border-bottom: 1px solid var(--tertiary-color);
+  padding: 8px;
+  text-align: left;
+}
+
+td:nth-child(even) {
+	background-color: var(--quaternary-color);
+}
+
+.progress-report-container {
+	display: flex;
+	flex-direction: column;
+	height: 100%;
+	margin: 0;
+	padding-top: 20px;
+}
+
+.progress-report-main {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	text-align: left;
+}
+
+.progress-report-title,
+.progress-report-subtitle {
+	width: 100% !important;
+}
