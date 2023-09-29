@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Research-Portfolio/static/css/main.89d59bf3.css",
-    "main.js": "/Research-Portfolio/static/js/main.93bedbaa.js",
+    "main.js": "/Research-Portfolio/static/js/main.5a3cfd34.js",
     "static/media/profile_picture.jpeg": "/Research-Portfolio/static/media/profile_picture.84b9604c4f03456ca7dc.jpeg",
     "static/media/dlsz_seal.png": "/Research-Portfolio/static/media/dlsz_seal.e1ea2f2ac2ae616749e9.png",
     "index.html": "/Research-Portfolio/index.html",
     "main.89d59bf3.css.map": "/Research-Portfolio/static/css/main.89d59bf3.css.map",
-    "main.93bedbaa.js.map": "/Research-Portfolio/static/js/main.93bedbaa.js.map"
+    "main.5a3cfd34.js.map": "/Research-Portfolio/static/js/main.5a3cfd34.js.map"
   },
   "entrypoints": [
     "static/css/main.89d59bf3.css",
-    "static/js/main.93bedbaa.js"
+    "static/js/main.5a3cfd34.js"
   ]
 }
