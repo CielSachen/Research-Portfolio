@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/Research-Portfolio/static/css/main.588ce0b7.css",
-    "main.js": "/Research-Portfolio/static/js/main.2628f026.js",
+    "main.css": "/Research-Portfolio/static/css/main.f76a7149.css",
+    "main.js": "/Research-Portfolio/static/js/main.b5182e17.js",
+    "static/media/formative_edpuzzle_screenshot_3.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_3.6bc5eecd4210b9bfd5e2.png",
     "static/media/profile_picture.jpeg": "/Research-Portfolio/static/media/profile_picture.84b9604c4f03456ca7dc.jpeg",
+    "static/media/formative_edpuzzle_screenshot_2.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_2.df2db2c4d89bdee519bf.png",
+    "static/media/formative_edpuzzle_screenshot_1.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_1.cf3765c8e08d96213cbf.png",
     "static/media/hero_image.jpg": "/Research-Portfolio/static/media/hero_image.a07023eb8ae43236c40b.jpg",
     "static/media/dlsz_seal.png": "/Research-Portfolio/static/media/dlsz_seal.e1ea2f2ac2ae616749e9.png",
     "index.html": "/Research-Portfolio/index.html",
-    "main.588ce0b7.css.map": "/Research-Portfolio/static/css/main.588ce0b7.css.map",
-    "main.2628f026.js.map": "/Research-Portfolio/static/js/main.2628f026.js.map"
+    "main.f76a7149.css.map": "/Research-Portfolio/static/css/main.f76a7149.css.map",
+    "main.b5182e17.js.map": "/Research-Portfolio/static/js/main.b5182e17.js.map"
   },
   "entrypoints": [
-    "static/css/main.588ce0b7.css",
-    "static/js/main.2628f026.js"
+    "static/css/main.f76a7149.css",
+    "static/js/main.b5182e17.js"
   ]
 }
