@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Research-Portfolio/static/css/main.14aaf970.css",
-    "main.js": "/Research-Portfolio/static/js/main.7ecc88ad.js",
+    "main.css": "/Research-Portfolio/static/css/main.e1ca8d33.css",
+    "main.js": "/Research-Portfolio/static/js/main.d6ca6174.js",
     "static/media/formative_edpuzzle_screenshot_3.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_3.6bc5eecd4210b9bfd5e2.png",
     "static/media/profile_picture.jpeg": "/Research-Portfolio/static/media/profile_picture.84b9604c4f03456ca7dc.jpeg",
     "static/media/formative_edpuzzle_screenshot_2.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_2.df2db2c4d89bdee519bf.png",
     "static/media/formative_edpuzzle_screenshot_1.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_1.cf3765c8e08d96213cbf.png",
     "static/media/hero_image.jpg": "/Research-Portfolio/static/media/hero_image.a07023eb8ae43236c40b.jpg",
     "static/media/dlsz_seal.png": "/Research-Portfolio/static/media/dlsz_seal.e1ea2f2ac2ae616749e9.png",
-    "static/media/heebo-latin-wght-normal.woff2": "/Research-Portfolio/static/media/heebo-latin-wght-normal.6e93d447f16623c7f18a.woff2",
+    "static/media/heebo-latin-wght-normal.woff2": "/Research-Portfolio/static/media/heebo-latin-wght-normal.8bb8b385145962ba734a.woff2",
     "static/media/roboto-latin-500-normal.woff2": "/Research-Portfolio/static/media/roboto-latin-500-normal.f25d774ecfe0996f8eb5.woff2",
     "static/media/roboto-latin-700-normal.woff2": "/Research-Portfolio/static/media/roboto-latin-700-normal.227c93190fe7f82de3f8.woff2",
     "static/media/roboto-latin-100-normal.woff2": "/Research-Portfolio/static/media/roboto-latin-100-normal.30fb0679553d179c3343.woff2",
@@ -38,8 +38,8 @@
     "static/media/roboto-latin-ext-100-normal.woff2": "/Research-Portfolio/static/media/roboto-latin-ext-100-normal.de9af3cb2f3a8bb8e41b.woff2",
     "static/media/roboto-latin-ext-500-normal.woff2": "/Research-Portfolio/static/media/roboto-latin-ext-500-normal.9165081d10e1ba601384.woff2",
     "static/media/roboto-latin-ext-300-normal.woff2": "/Research-Portfolio/static/media/roboto-latin-ext-300-normal.dc7dcec8e3f654e0ed63.woff2",
-    "static/media/heebo-hebrew-wght-normal.woff2": "/Research-Portfolio/static/media/heebo-hebrew-wght-normal.2d59969ce3dd2084b8f5.woff2",
     "static/media/roboto-latin-ext-900-normal.woff2": "/Research-Portfolio/static/media/roboto-latin-ext-900-normal.cbba5b9782d2ddc45f02.woff2",
+    "static/media/heebo-hebrew-wght-normal.woff2": "/Research-Portfolio/static/media/heebo-hebrew-wght-normal.7c90a6206cefe2a2f20f.woff2",
     "static/media/roboto-latin-ext-300-normal.woff": "/Research-Portfolio/static/media/roboto-latin-ext-300-normal.182712ab85f1472cdb2f.woff",
     "static/media/roboto-latin-ext-400-normal.woff": "/Research-Portfolio/static/media/roboto-latin-ext-400-normal.e757c42df6aaa3e11b62.woff",
     "static/media/roboto-latin-ext-500-normal.woff": "/Research-Portfolio/static/media/roboto-latin-ext-500-normal.252057e589a0379208ed.woff",
@@ -95,11 +95,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Research-Portfolio/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/Research-Portfolio/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/Research-Portfolio/index.html",
-    "main.14aaf970.css.map": "/Research-Portfolio/static/css/main.14aaf970.css.map",
-    "main.7ecc88ad.js.map": "/Research-Portfolio/static/js/main.7ecc88ad.js.map"
+    "main.e1ca8d33.css.map": "/Research-Portfolio/static/css/main.e1ca8d33.css.map",
+    "main.d6ca6174.js.map": "/Research-Portfolio/static/js/main.d6ca6174.js.map"
   },
   "entrypoints": [
-    "static/css/main.14aaf970.css",
-    "static/js/main.7ecc88ad.js"
+    "static/css/main.e1ca8d33.css",
+    "static/js/main.d6ca6174.js"
   ]
 }
