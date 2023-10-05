@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Research-Portfolio/static/css/main.e1ca8d33.css",
-    "main.js": "/Research-Portfolio/static/js/main.d6ca6174.js",
+    "main.css": "/Research-Portfolio/static/css/main.6185f37c.css",
+    "main.js": "/Research-Portfolio/static/js/main.0f02285f.js",
     "static/media/formative_edpuzzle_screenshot_3.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_3.6bc5eecd4210b9bfd5e2.png",
     "static/media/profile_picture.jpeg": "/Research-Portfolio/static/media/profile_picture.84b9604c4f03456ca7dc.jpeg",
     "static/media/formative_edpuzzle_screenshot_2.png": "/Research-Portfolio/static/media/formative_edpuzzle_screenshot_2.df2db2c4d89bdee519bf.png",
@@ -95,11 +95,11 @@
     "static/media/roboto-greek-ext-400-normal.woff": "/Research-Portfolio/static/media/roboto-greek-ext-400-normal.f708607d2a7290fb8bfa.woff",
     "static/media/roboto-greek-ext-700-normal.woff": "/Research-Portfolio/static/media/roboto-greek-ext-700-normal.249853776d22a271b2b5.woff",
     "index.html": "/Research-Portfolio/index.html",
-    "main.e1ca8d33.css.map": "/Research-Portfolio/static/css/main.e1ca8d33.css.map",
-    "main.d6ca6174.js.map": "/Research-Portfolio/static/js/main.d6ca6174.js.map"
+    "main.6185f37c.css.map": "/Research-Portfolio/static/css/main.6185f37c.css.map",
+    "main.0f02285f.js.map": "/Research-Portfolio/static/js/main.0f02285f.js.map"
   },
   "entrypoints": [
-    "static/css/main.e1ca8d33.css",
-    "static/js/main.d6ca6174.js"
+    "static/css/main.6185f37c.css",
+    "static/js/main.0f02285f.js"
   ]
 }
