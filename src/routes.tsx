@@ -45,7 +45,7 @@ export const appRoutes: AppRoute[] = [
     },
   },
   {
-    path: 'about',
+    path: '/about',
     element: <AboutPage />,
     state: 'about',
     sidebarProps: {
@@ -54,7 +54,7 @@ export const appRoutes: AppRoute[] = [
     },
   },
   {
-    path: 'cbl',
+    path: '/cbl',
     element: <CBLPage />,
     state: 'cbl',
     sidebarProps: {
@@ -72,7 +72,7 @@ export const appRoutes: AppRoute[] = [
     },
   },
   {
-    path: 'assessments',
+    path: '/assessments',
     element: <AssessmentsPageLayout />,
     state: 'assessments',
     sidebarProps: {
@@ -80,14 +80,14 @@ export const appRoutes: AppRoute[] = [
       icon: <TextSnippetOutlinedIcon />,
     },
     children: [{
-      path: 'assessments/formatives',
+      path: '/assessments/formatives',
       element: <FormativesPage />,
       state: 'assessments.formatives',
       sidebarProps: { displayText: 'Formative' },
     }],
   },
   {
-    path: 'progress_reports',
+    path: '/progress_reports',
     element: <ProgressReportPage />,
     state: 'progressreports',
     sidebarProps: {
